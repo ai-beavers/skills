@@ -1,6 +1,6 @@
 # skills
 
-The Claude Code skills I use every day, from my talk "claude basics: how to keep up".
+The Claude Code skills I use every day (vlady)
 
 My rule: if you do something three times, make it a skill. Most of mine come from other people. I wrote a few myself, and those mostly chain the open source ones together.
 
